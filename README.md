@@ -1,5 +1,5 @@
 # Google_Cybersecurity_Certificate
-A Github repository to store and showcase all 21 activities I did to earn my Google Cybersecurity Professional Certificate. 
+A Github repository to store and showcase all 21 activities I did to earn my Google Cybersecurity Professional Certificate.
 The activities included: 
 1. Conduct a security audit
 2. Analyze network layer communication

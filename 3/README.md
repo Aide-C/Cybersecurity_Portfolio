@@ -1,5 +1,6 @@
 # Analyze Network Attacks
 In this course, I learned about several common network attacks. I learned their names, how they are carried out, and the characteristics of each attack from the perspective of the target. Understanding how attacks impact a network will help me troubleshoot issues on a organization’s network. It will also help me take steps to mitigate damage and protect a network from future attacks.
+
 The scenario:
 I work as a security analyst for a travel agency that advertises sales and promotions on the company’s website. The employees of the company regularly access the company’s sales webpage to search for vacation packages their customers might like. 
 One afternoon, I received an automated alert from my monitoring system indicating a problem with the web server. I attempted to visit the company’s website, but I receive a connection timeout error message in the browser.

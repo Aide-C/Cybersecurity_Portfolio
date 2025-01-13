@@ -16,9 +16,8 @@ The activities included:
 13. Analyze a vulnerable system for a small business
 14. Identify the attack vector of a USB drive
 15. Apply the PASTA threat model framework
-16. Document an incident with an incident handler’s journal 
-17. Research network protocol analyzers
-18. Investigate a suspicious file hash 
-19. Use a playbook to respond to a phishing incident 
-20. Finalize my incident handler’s journal
-21. Update a file through a Python algorithm
+16. Research network protocol analyzers
+17. Investigate a suspicious file hash 
+18. Use a playbook to respond to a phishing incident 
+19. Finalize my incident handler’s journal
+20. Update a file through a Python algorithm

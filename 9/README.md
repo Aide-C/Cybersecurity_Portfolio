@@ -16,4 +16,5 @@ To do this, I started by identifying three devices that have access to my home n
 - Game consoles
 - Storage devices or servers
 - Video streaming devices
+  
 Then, I listed important characteristics of each device such as its owner, location, and type. Finally, I assigned each device a level of sensitivity based on how important it is to protect.

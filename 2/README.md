@@ -7,8 +7,7 @@ Creating a quality cybersecurity incident report and applying the CSF can demons
 The CSF is scalable and can be applied in a wide variety of contexts. As I continue to learn more and refine my understanding of key cybersecurity skills, I can use the templates provided in this activity in other situations. 
 Knowing how to identify which security measures to apply in response to business needs will help me determine which are the best available options when it comes to network security.
 
-The scenario:
-I am a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses.
+**The scenario:** I am a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses.
 My organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
 During the attack, my organization’s network services suddenly stopped responding due to an incoming flood of ICMP packets. Normal internal network traffic could not access any network resources.
 The incident management team responded by blocking incoming ICMP packets, stopping all non-critical network services offline, and restoring critical network services. 

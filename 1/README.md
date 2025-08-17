@@ -1,6 +1,6 @@
 # Conduct a Security Audit
 
-Audits help ensure that security checks are made to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. This scenario is based on a fictional company:<br>
+Audits help ensure that security checks are made to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. This scenario is based on a fictional company:
 
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as its main office, a storefront, and a warehouse for its products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. <br>
 
@@ -8,3 +8,4 @@ The manager of the IT department has decided that an internal IT audit needs to 
 
 The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of its security posture.
 My task was to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
+

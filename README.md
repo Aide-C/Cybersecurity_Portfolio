@@ -5,6 +5,5 @@ The activities included:
 2. Use the NIST Cybersecurity Framework to respond to a security incident
 3. Apply filters to SQL queries
 4. Analyze a vulnerable system for a small business
-5. Document an incident with an incident handler's journal
-6. Finalize your incident handler's journal
-7. Update a file through a Python algorithm
+5. Finalize an incident handler's journal
+6. Update a file through a Python algorithm
